@@ -1,0 +1,34 @@
+@media ((min-width: 1600px)) {
+
+}
+
+@media ((max-width: 1200px)) {
+
+}
+
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 786px) {
+
+
+}
+
+@media (max-width: 576px) {
+
+}
+
+
+
+@media (max-width: 467px) {
+    .container-fluid {
+        width: 100% !important;
+    }
+}
+
+@media (max-width: 360px) {
+    
+
+}
